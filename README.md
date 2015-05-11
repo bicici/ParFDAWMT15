@@ -17,12 +17,14 @@ Language models were built using SRILM (http://www.speech.sri.com/projects/srilm
 
 [5 use the LDC English Gigaword 5th edition]
 
-Czech - English
-Finnish - English
-French - English
-German - English
-Russian - English
+- Czech - English
+- Finnish - English
+- French - English
+- German - English
+- Russian - English
+
 [1 use the LDC French Gigaword 3rd edition]
 
-English - French
+- English - French
+
 LICENSE: Dublin City University License for Open Data allowing use for research and academic purposes.
