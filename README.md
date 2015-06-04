@@ -1,7 +1,7 @@
 # ParFDA5WMT15
 Parallel FDA5 WMT'15 Datasets
 
-We make the English, Czech, Finnish, French, German, and Russian datasets we used when building Parallel FDA5 Moses SMT systems for research purposes, downloadable from:
+We make the English, Czech, Finnish, French, German, and Russian datasets available used when building Parallel FDA5 Moses SMT systems for research purposes. Downloadable from:
 
 https://drive.google.com/a/dcu.ie/folderview?id=0B6Jae6trZb1afjJ1T0ZOZlZFZUk0S2R3Z0U3eVdxN2tpQlVwTUgyX0tteVk4TnlhRHVJR2M&usp=sharing
 
