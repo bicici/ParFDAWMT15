@@ -13,7 +13,7 @@ Ergun Biçici, Qun Liu, and Andy Way. ParFDA for Fast Deployment of Accurate Sta
 
 The datasets and the SMT results can serve as a benchmark for SMT research where further linguistic processing can be performed. The datasets allow fast deployment of accurate SMT systems and can be used for benchmarking the performance of SMT systems.
 
-Language models were built using SRILM (http://www.speech.sri.com/projects/srilm/). Language model corpora used contain 15M sentences some of which are selected from LDC Gigaword corpora by the Parallel FDA5 algorithm:
+Language models were built using SRILM (http://www.speech.sri.com/projects/srilm/). Language model corpora used contain 15M sentences some of which are selected from LDC Gigaword corpora by ParFDA:
 
 [5 use the LDC English Gigaword 5th edition]
 
